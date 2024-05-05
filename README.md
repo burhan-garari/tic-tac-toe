@@ -4,11 +4,13 @@ A basic tic tac toe application with an additional Time Travel Feature
 ## Brief
 
 1. Allows two users to play the game of tic tac toe
-2. At any point user can view the prevoius steps taken in the game
+2. At any point user can view the previous steps taken in the game
 3. Once in a time travel mode no user can play a new move and only view the earlier steps
-4. On disabling Time travel mode, user can continue at most recent game state
+4. On disabling Time travel mode, user can continue at the most recent game state.
 
 # View the app here
+https://github.com/burhan-garari/tic-tac-toe/assets/78617502/09a9f0c2-9edf-4317-b6fb-3dd0486a358f
+
 
 
 # Steps to run locally
