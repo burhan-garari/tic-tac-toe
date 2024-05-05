@@ -1,0 +1,14 @@
+.controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.controls-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.control-button {
+    margin-inline: 10px;
+}

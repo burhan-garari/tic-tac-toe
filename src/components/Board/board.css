@@ -1,0 +1,17 @@
+.board {
+    /* centering trick */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: max-content;
+    border: 1px solid black;
+    width: max-content;
+    font-size: 25px;
+}
+
+.board-row {
+    display: flex;
+}
